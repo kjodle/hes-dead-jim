@@ -1,0 +1,28 @@
+#hesdeadjim {
+	float: left;
+	padding: 5px 10px;
+	margin: 0px;
+	width: 25%;
+	font-size: 11px;
+	font-family: "Open Sans", sans-serif;
+	text-align: left;
+	background: #222;
+	color: #ffffd9;
+	transform: scaleX(0.8);
+	-o-transform: scaleX(0.8);
+	-moz-transform: scaleX(0.8);
+	-webkit-transform: scaleX(0.8);
+	-ms-transform: scaleX(0.8);
+	border-radius: 0 0 2px 2px;
+	}
+
+#dolly {max-width: 20%}
+
+.d12hdjclear {
+	clear: right;
+	margin: 1px 0;
+	}
+
+.wrap h2 {
+	clear: both;
+	}
